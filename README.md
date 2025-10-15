@@ -174,3 +174,4 @@ fastapi-calculator/
         └── test-and-deploy.yml
 ```
 
+# testando a lib
