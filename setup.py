@@ -5,8 +5,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="AprendendoLIB",  # ⚡ Nome com hífen para o PyPI
-    version="0.1.3",
+    name="calculadora_saraiva_lib",  # ⚡ Nome com hífen para o PyPI
+    version="0.1.4",
     description="Biblioteca de operações matemáticas básicas em Python.",
     long_description=long_description,
     long_description_content_type="text/markdown",
